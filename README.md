@@ -1,2 +1,2 @@
 
-Myself Reynas im 18 y/o trying to get into programming currently learing my first language c++
+Myself Reynas im 18 y/o trying to get into programming currently learning my first language c++
